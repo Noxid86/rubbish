@@ -7,7 +7,7 @@
   dksj
 
   ## Table of Contents
-  [ai/size-limit](./readme#Description)
+  [ai/size-limit](#Usage)
 
   ### Installation
   sdfsad
