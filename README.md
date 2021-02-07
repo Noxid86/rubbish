@@ -7,7 +7,7 @@
   dksj
 
   ## Table of Contents
-  [ai/size-limit](https://github.com/Noxid86/rubbish#Description)
+  [ai/size-limit](./#Description)
 
   ### Installation
   sdfsad
