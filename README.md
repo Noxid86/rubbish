@@ -7,7 +7,7 @@
 j
 
 ## Table of Contents
-    [Installation](#Installation)
+[Installation](#Installation)
     [Usage](#Usage)
     * [License](Installation)
     * Contributingcs
