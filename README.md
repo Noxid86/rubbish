@@ -1,37 +1,42 @@
-  # ReadMe-Generator
-  Using Node.js, generate a ReadMe.md file using the answers inputed by the user.
 
-  lkdsf
+# PLEASE WORK
+![Github license]
 
-  ## Description
-  dksj
+## Description:
 
-  ## Table of Contents
-  
-
-  ### Installation
-  sdfsad
-
-  ### Usage 
-  dsfa
-
-  ### License
-  GNU
-
-  ### Contributors
-  slkfjdla
-
-  ### Tests
-  yes
-
-  ### Questions
-  ldska
-
-  ### GitHub Username
-  klsdj
-
-  ### Badges
-  ![npm](https://img.shields.io/static/v1?label=license&message=GNU&color=blue)
-
-  Copyright 2020 &copy;
-  
+i am hoping this denerates a readme
+## Table of Contents
+    1. [Installation](Installation)
+     [Usage](Usage)
+    * [License](Installation)
+    * Contributing
+    * Tests 
+    * Questions 
+      
+## Installation
+To install necessary dependencies, run the following command:
+      
+```
+any you would like
+```
+## Usage 
+```
+you need inquirer
+```
+      
+## License  
+This product is licensed under the  license. 
+      
+## Contributing
+hi
+      
+## Tests 
+To run tests, run the following command:
+      
+```
+npm
+```
+      
+## Questions 
+If you have any questions about the repo open an issue or contact me directly at gmail. You can find more of my work at jennifer.        
+            
