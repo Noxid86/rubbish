@@ -6,7 +6,7 @@
 
 i am hoping this denerates a readme
 ## Table of Contents
-    1. [Installation](To install)
+[Installation](To install)
      [Usage](Usage)
     * [License](Installation)
     * Contributing
