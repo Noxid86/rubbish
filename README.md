@@ -7,8 +7,7 @@
 j
 
 ## Table of Contents
-[Installation](#Installation)
-    [Usage](#Usage)
+[* Installation](#Installation)
     * [License](Installation)
     * Contributingcs
     * Tests 
